@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product Name 1",
+      "description": "Product description 1",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://example.com/product1.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Product Name 2",
+      "description": "Product description 2",
+      "price": 59.99,
+      "currency": "USD",
+      "image": "https://example.com/product2.jpg",
+      "rating": 3.8
+    },
+  ]
+}
